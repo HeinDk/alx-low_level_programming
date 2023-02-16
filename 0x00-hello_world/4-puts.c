@@ -1,8 +1,11 @@
 #include <stdio.h>
 
 /**
- *4-puts.c
- *printing strings using puts()
+ * main - Entry point
+ *
+ * 4-puts.c; printing strings using puts(
+ *
+ * Return: Always (0) (Success)
  */
 int main(void)
 {

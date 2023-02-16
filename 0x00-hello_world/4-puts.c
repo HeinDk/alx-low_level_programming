@@ -2,7 +2,6 @@
 
 int main(void)
 {
-	char i[]=("\"Programming is like building a multilingualpuzzle\n");
-	puts(i);
+	puts("\"Programming is like building a multilingual puzzle\n");
 	return (0);
 }
